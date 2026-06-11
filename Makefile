@@ -1,4 +1,4 @@
-.PHONY: build clean rebuild serve
+.PHONY: build clean force-build run test lint preview
 
 build:
 	npm run build
@@ -17,3 +17,6 @@ test:
 
 lint:
 	npm run lint
+
+preview: build
+	cd dist/cyril-defaye-fr/browser && python3 -m http.server 8080
