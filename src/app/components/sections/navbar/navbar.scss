@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 3rem;
+  padding-bottom: 1rem;
+
+  border-bottom: 1px solid var(--border);
+}
+
+.navbar a {
+  color: var(--muted);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.navbar a:hover {
+  color: var(--accent);
+}
+
+.navbar a.active {
+  color: var(--accent);
+}
