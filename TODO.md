@@ -7,7 +7,11 @@
 
 ## V0.3.0
 
-- [X] **Add education section**
+- [X] Add education section
+
+## V0.4.0
+
+- [X] Add projects section
 
 ## V1.0.0
 
