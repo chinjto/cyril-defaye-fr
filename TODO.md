@@ -7,7 +7,7 @@
 
 ## V0.3.0
 
-- [ ] **Add education section**
+- [X] **Add education section**
 
 ## V1.0.0
 
