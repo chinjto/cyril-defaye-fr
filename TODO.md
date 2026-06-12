@@ -3,8 +3,14 @@
 ## V0.2.0
 
 - [X] Open CV link in a new tab
-- [ ] **Add detailed experience section**
-- [ ] Add education section
+- [X] Add detailed experience section
+
+## V0.3.0
+
+- [ ] **Add education section**
+
+## V1.0.0
+
 - [ ] Add Open Graph metadata
 - [ ] Add Open Graph preview image
 - [ ] Review homepage content from a recruiter perspective
