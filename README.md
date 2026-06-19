@@ -34,7 +34,17 @@ To build the project run:
 ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+This project is configured as a static site generation (SSG) build with `outputMode: "static"` in `angular.json`. Angular discovers the static routes from `src/app/app.routes.ts`, pre-renders them at build time, and stores the static artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+
+You can also use the explicit SSG script:
+
+```bash
+npm run build:ssg
+```
+
+## SEO metadata
+
+Page SEO and Open Graph metadata are declared on each route in `src/app/app.routes.ts` with `withSeoMetadata(...)`. The shared SEO service applies the page title, description, Open Graph tags, default Open Graph image (`/favicon.png`) and canonical URL during browser navigation and pre-rendering.
 
 ## Running unit tests
 
