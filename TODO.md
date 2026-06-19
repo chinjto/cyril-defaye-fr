@@ -15,8 +15,8 @@
 
 ## V1.1.0
 
-- [ ] Add Open Graph metadata
-- [ ] Add Open Graph preview image
+- [X] Add Open Graph metadata
+- [X] Add Open Graph preview image
 
 ## Backlog
 
@@ -25,4 +25,4 @@
 - [ ] Add projects / achievements section
 - [ ] Add technical stack section with more details
 - [ ] Add conference / learning section
-- [ ] Improve SEO metadata
+- [X] Improve SEO metadata
