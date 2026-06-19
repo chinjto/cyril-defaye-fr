@@ -13,16 +13,16 @@
 
 - [X] Add projects section
 
-## V1.0.0
+## V1.1.0
 
-- [ ] Add Open Graph metadata
-- [ ] Add Open Graph preview image
+- [X] Add Open Graph metadata
+- [X] Add Open Graph preview image
+
+## Backlog
+
 - [ ] Review homepage content from a recruiter perspective
 - [ ] Check responsive rendering after content additions
-
-## Later
-
 - [ ] Add projects / achievements section
 - [ ] Add technical stack section with more details
 - [ ] Add conference / learning section
-- [ ] Improve SEO metadata
+- [X] Improve SEO metadata
