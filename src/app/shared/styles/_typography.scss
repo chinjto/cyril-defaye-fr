@@ -1,0 +1,30 @@
+.intro {
+  max-width: 760px;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+.eyebrow {
+  margin: 0 0 16px;
+  color: var(--accent);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+h2 {
+  margin: 0 0 24px;
+  color: var(--heading);
+  font-size: 2rem;
+}
+
+h3 {
+  margin: 0 0 12px;
+  color: var(--heading);
+}
+
+.meta {
+  margin: 0 0 1rem;
+  color: var(--muted);
+  font-weight: 700;
+}
