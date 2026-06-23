@@ -4,7 +4,7 @@ import { Meta, Title } from '@angular/platform-browser';
 import { ActivatedRouteSnapshot, NavigationEnd, Router } from '@angular/router';
 import { filter } from 'rxjs';
 
-import { DEFAULT_OG_IMAGE, SeoMetadata, SITE_URL } from './seo-metadata';
+import { DEFAULT_OG_IMAGE, SeoMetadata, SITE_URL } from '@core/seo/seo-metadata';
 
 @Injectable({ providedIn: 'root' })
 export class SeoService {

@@ -90,5 +90,10 @@
         }
       }
     }
+  },
+  "cli": {
+    "schematicCollections": [
+      "@chinjto/generator-angular"
+    ]
   }
 }
