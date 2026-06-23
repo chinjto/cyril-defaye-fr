@@ -15,6 +15,17 @@ export const routes: Routes = [
         .then(m => m.Home)
   },
   {
+    path: 'about',
+    data: withSeoMetadata({
+      title: 'About - Cyril DEFAYE',
+      description: 'Software engineer, tech lead and builder of developer tools. Discover my background, experience and professional journey.',
+      canonicalPath: '/about',
+    }),
+    loadComponent: () =>
+      import('./pages/about/about')
+        .then(m => m.About)
+  },
+  {
     path: 'works',
     data: withSeoMetadata({
       title: 'Works - Cyril DEFAYE',
