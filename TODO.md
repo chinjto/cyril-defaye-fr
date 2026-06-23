@@ -17,12 +17,14 @@
 
 - [X] Add Open Graph metadata
 - [X] Add Open Graph preview image
+- [X] Improve SEO metadata
+
+## V1.2.0
+
+- [ ] Add technical stack section with more details
 
 ## Backlog
 
 - [ ] Review homepage content from a recruiter perspective
 - [ ] Check responsive rendering after content additions
-- [ ] Add projects / achievements section
-- [ ] Add technical stack section with more details
-- [ ] Add conference / learning section
-- [X] Improve SEO metadata
+- [ ] Add achievements section
