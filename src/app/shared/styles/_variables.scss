@@ -1,0 +1,16 @@
+:host {
+  --white: #ffffff;
+  --black: #000000;
+  --dark-gray: #333333;
+  --light-gray: #f0f0f0;
+  --medium-gray: #444444;
+  --gray: #5d5d5d;
+  --dark-text: #414141;
+  --accent: #b58000;
+
+  --background: var(--white);
+  --surface: var(--light-gray);
+  --heading: var(--black);
+  --text: var(--dark-gray);
+  --muted: var(--gray);
+}
