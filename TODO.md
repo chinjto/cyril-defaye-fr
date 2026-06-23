@@ -21,10 +21,12 @@
 
 ## V1.2.0
 
-- [ ] Add technical stack section with more details
+- [X] Add about me section with more details
 
 ## Backlog
 
+
+- [ ] Add technical stack section with more details
 - [ ] Review homepage content from a recruiter perspective
 - [ ] Check responsive rendering after content additions
 - [ ] Add achievements section
