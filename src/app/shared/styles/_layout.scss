@@ -1,0 +1,23 @@
+.section {
+  margin-top: 4rem;
+}
+
+.section-bordered {
+  padding: 48px 0;
+  border-bottom: 1px solid var(--light-gray);
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.actions,
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 32px;
+  align-items: center;
+}

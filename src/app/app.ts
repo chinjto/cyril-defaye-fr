@@ -1,8 +1,8 @@
 import { Component, inject } from '@angular/core';
 import {RouterOutlet} from '@angular/router';
-import {Navbar} from './components/sections/navbar/navbar';
-import {Footer} from './components/sections/footer/footer';
-import { SeoService } from './core/seo/seo.service';
+import {Navbar} from '@sections/navbar/navbar';
+import {Footer} from '@sections/footer/footer';
+import { SeoService } from '@core/seo/seo.service';
 
 @Component({
   selector: 'app-root',
