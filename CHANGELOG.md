@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.1
+
+- fix(about): Replace h1 at good place
+
 ## v1.2.0
 
 - refactor(clean-ui): Clean actual project structure
@@ -7,6 +11,7 @@
 - refactor(ui): Split home sections into distincts sections
 - docs(todo): Update backlog
 - feat(about): Add an about me page
+- chore(changelog): Publish v1.2.0
 
 ## v1.1.0
 
