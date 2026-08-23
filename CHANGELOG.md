@@ -1,8 +1,13 @@
 # Changelog
 
+## v1.3.0
+
+- feat(updates): Update content on actual situation
+
 ## v1.2.1
 
 - fix(about): Replace h1 at good place
+- chore(changelog): Publish v1.2.1
 
 ## v1.2.0
 
@@ -53,7 +58,6 @@
 
 - feat(make): Add version & release goals
 - feat(make): Add deploy goal
-- wip(todo): Add project roadmap
 - feat(make): Switch project make into global make
 - fix(pdf): Open PDF links in a new tab
 - feat(layout): Add shared website structure
