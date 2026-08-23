@@ -1,8 +1,13 @@
 # Changelog
 
+## v1.3.1
+
+- fix(home): Still in Ireland
+
 ## v1.3.0
 
 - feat(updates): Update content on actual situation
+- chore(changelog): Publish v1.3.0
 
 ## v1.2.1
 
