@@ -1,6 +1,6 @@
 import { Routes } from '@angular/router';
 
-import { withSeoMetadata } from './core/seo/seo-metadata';
+import { withSeoMetadata } from '@core/seo/seo-metadata';
 
 export const routes: Routes = [
   {
